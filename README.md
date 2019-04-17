@@ -4,7 +4,7 @@
 2) Edit this file (README.md) and write a nice little poem below these instructions.
 3) Commit your changes and push them to github.
 
-*They put me in the oven to bake.\
+**They put me in the oven to bake.\
 Me, a deprived and miserable cake.\
 Feeling the heat, I started to bubble.\
 Watching the others, I knew I was in trouble.\
@@ -17,4 +17,4 @@ The rest of my batch looked like fools.\
 Lifting me up, she took off my wrapper.\
 Feeling the breeze, I wanted to slap her.\
 Opening her mouth with shiny teeth inside,\
-This was the day this cupcake died.*
+This was the day this cupcake died.**
